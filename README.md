@@ -1,0 +1,2 @@
+# BWeather
+This is a weather application that is under development but has very comprehensive functions.We intend to develop a weather application that can intelligently display the weather in multiple regions or countries and plan the itinerary. The current project is still in the development process, the current stage of the test project to retrieve the logical integrity of the regional weather function and interface If you encounter problems during the test, please contact me
